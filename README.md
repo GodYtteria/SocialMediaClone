@@ -8,7 +8,7 @@ This is Social Media Clone for all of my students you can change this details on
 
 - 🌱 I’m currently learning **HTML ,CSS , JSS**
 
-- 💬 Ask me about **I'm currently Student from UAE**
+- 💬 Ask me about **I'm currently Studying from UAE**
 
 - ⚡ Fun fact **Im still currently learning about Frameworks and Web Developments**
 
