@@ -20,4 +20,10 @@
 
 # Assesment 1: Social Media Clone
 
+It can be difficult to create a social media web app that clones typical features and functionality of an existing product or service. However, the following are the important actions you must take to construct the app:
+
+# As a student, it's challenging for me to replicate social media, but I managed it using this technique:
+
+1.) Identify the existing social media network you want to clone: Before you start designing your app, you must decide the social media platform you want to clone. You can use popular platforms such as Facebook, Twitter, or Instagram.
+
 
